@@ -1,0 +1,99 @@
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\obj\Debug\MPL_Conference.csprojResolveAssemblyReference.cache
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\MPL_Conference.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\MPL_Conference.pdb
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Antlr3.Runtime.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.Core.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\EntityFramework.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\System.Web.Optimization.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\System.Web.Providers.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\WebGrease.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\EntityFramework.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.Core.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\obj\Debug\MPL_Conference.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\obj\Debug\MPL_Conference.pdb
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\AjaxControlToolkit.pdb
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Zubin -The Dark Star\Documents\Visual Studio 2012\Projects\MPL_Conference1\MPL_Conference\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\MPL_Conference.dll.config
+D:\Projects\MPL_Conference1\MPL_Conference\bin\MPL_Conference.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\MPL_Conference.pdb
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Antlr3.Runtime.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.Core.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\EntityFramework.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\System.Web.Optimization.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\System.Web.Providers.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\WebGrease.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\AjaxControlToolkit.pdb
+D:\Projects\MPL_Conference1\MPL_Conference\bin\EntityFramework.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.Core.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Projects\MPL_Conference1\MPL_Conference\bin\ar\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\cs\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\de\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\es\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\fr\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\he\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\hi\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\it\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\ja\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\ko\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\nl\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\pt\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\ru\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Projects\MPL_Conference1\MPL_Conference\obj\Debug\MPL_Conference.csprojResolveAssemblyReference.cache
+D:\Projects\MPL_Conference1\MPL_Conference\obj\Debug\MPL_Conference.dll
+D:\Projects\MPL_Conference1\MPL_Conference\obj\Debug\MPL_Conference.pdb
